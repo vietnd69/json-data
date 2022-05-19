@@ -1,0 +1,827 @@
+[
+	{
+		"name": "kỳ thi Tốt nghiệp THPT",
+		"courses": [
+			{
+				"name": "LUYỆN GIẢI ĐỀ(PEN-C)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "Nguyễn Thanh Tùng",
+								"img": "",
+								"info": [
+									"Kỹ sư trường ĐH Bách khoa Hà Nội",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ giúp em ôn đúng dạng, luyện trúng đề, tối đa hóa điểm số với sơ đồ tư duy khoa học. "
+								]
+							},
+							{
+								"name": "Lê Bá Trần Phương",
+								"img": "",
+								"info": [
+									"Tiến sĩ Toán học",
+									"30+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp kiến thức tỉ mỉ, chi tiết, logic rõ ràng, mạch lạc giúp học sinh hiểu bản chất kiến thức"
+								]
+							},
+							{
+								"name": "Lê Anh Tuấn",
+								"img": "",
+								"info": [
+									"Tiến sĩ Toán học",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
+								]
+							},
+							{
+								"name": "Lưu Huy Thưởng",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại học bằng giỏi của KTQD",
+									"Sinh viên xuất sắc toàn khóa",
+									"Thầy dạy chậm, giúp em hiểu bản chất, dễ học, dễ nhớ. "
+								]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "Đỗ Ngọc Hà",
+								"img": "",
+								"info": [
+									"Nghiên cứu viên Viện Vật Lí - Viện Hàn Lâm Khoa Học và Công Nghệ VN",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Giúp em thành thạo tất cả dạng bài, rút ngắn thời gian làm bài, bứt phá điểm số"
+								]
+							},
+							{
+								"name": "Nguyễn Thành Nam",
+								"img": "",
+								"info": [
+									"Tiến sĩ Vật Lí tại Pháp",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Dạy chi tiết, hiểu bản chất là phương châm hàng đầu của thầy"
+								]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "Vũ Khắc Ngọc",
+								"img": "",
+								"info": [
+									"Cán bộ nghiên cứu phòng Hóa sinh Protein – Viện Công nghệ Sinh học – Viện Khoa học và Công nghệ Việt Nam",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp các kiến thức 'xương sống' giúp các em hiểu đúng, hiểu sâu, hiểu chắc mọi vấn đề tạo cơ sở cho việc học tập, đạt kết quả cao. "
+								]
+							},
+							{
+								"name": "Nguyễn Ngọc Anh",
+								"img": "",
+								"info": [
+									"Đạt 2 huy chương vàng môn Hoá học trong cuộc thi Olympic Hóa học do Australia tổ chức",
+									"11+ năm kinh nghiệm luyện thi Đại Học",
+									"Bài bản, chi tiết, phương pháp học thông minh, logic, hiểu bản chất, giải đáp tất cả thắc mắc của học sinh."
+								]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "Nguyễn Thành Công",
+								"img": "",
+								"info": [
+									"Thạc sĩ Sinh học tại ĐHQG Hà Nội",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Với phương pháp tiếp cận ngược, thầy đi từ các vấn đề thực tiễn, hướng dần học sinh đến những kiến thức khóa học giúp học sinh thấm, ngấm kiến thức một cách tự nhiên, không gượng ép."
+								]
+							},
+							{
+								"name": "Đinh Đức Hiền",
+								"img": "",
+								"info": [
+									"Thạc sĩ Sinh học, ĐH Khoa học Tự nhiên, ĐHQGHN với nhiều công trình nghiên cứu khoa học được công bố trên các tạp chí khoa học tại Anh.",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ giúp các em hệ thống kiến thức một các logic, dễ nhớ"
+								]
+							}
+						]
+					},
+					{
+						"name": "Tiếng Anh",
+						"teachers": [
+							{
+								"name": "Hương Fiona",
+								"img": "",
+								"info": [
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Có nhiều học sinh đạt được thành tích cao trong kì thi Tốt nghiệp THPT và đỗ vào các trường Đại học uy tín trên cả nước",
+									"Hệ thống hóa kiến thức, nắm chắc mọi dạng bài, nâng cao tư duy tránh bẫy trong đề, dễ dàng đạt điểm cao."
+								]
+							},
+							{
+								"name": "Phạm Trọng Hiếu",
+								"img": "",
+								"info": [
+									"Giáo viên Tiếng Anh chuẩn Quốc tế TESOL của Australian Training Academy",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Hệ thống hóa kiến thức, nắm chắc mọi dạng bài, nâng cao tư duy tránh bẫy trong đề, dễ dàng đạt điểm cao."
+								]
+							}
+						]
+					},
+					{
+						"name": "Ngữ văn",
+						"teachers": [
+							{
+								"name": "Trịnh Thu Tuyết",
+								"img": "",
+								"info": [
+									"Tiến sĩ Ngữ văn, nguyên giáo viên trường THPT Chu Văn An",
+									"30+ năm kinh nghiệm luyện thi Đại học",
+									"Ở mỗi bài giảng cô lại có những cách truyền đạt khác nhau giúp học sinh vừa nắm chắc kiến thức đồng thời lại có thể cảm thụ văn học tốt hơn."
+								]
+							},
+							{
+								"name": "Phạm Hữu Cường",
+								"img": "",
+								"info": [
+									"Giáo viên luyện thi môn Ngữ văn hàng đầu Hà Nội và có nhiều học sinh đỗ Thủ khoa, Á khoa của các trường Đại học danh tiếng",
+									"20+ năm kinh nghiệm luyện thi Đại học",
+									"Những bài học của thầy luôn sinh động, không nhàm chán, luôn tạo ra điều mới mẻ, khác lạ, thu hút và tạo được nhiều cung bậc cảm xúc cho các em học sinh."
+								]
+							}
+						]
+					},
+					{
+						"name": "KHXH",
+						"teachers": [
+							{
+								"name": "Lịch sử: Lê Thị Thu Hương",
+								"img": "",
+								"info": [
+									"Giải Nhất giáo viên dạy giỏi môn Lịch sử thành phố Hà Nội",
+									"20+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp tất cả các kiến thức nền tảng giúp học sinh xây nền kiến thức cơ bản, Học theo sơ đồ tư duy gọn nhẹ dễ nhớ"
+								]
+							},
+							{
+								"name": "Địa lí: Nguyễn Mạnh Hà",
+								"img": "",
+								"info": [
+									"Giáo viên THPT CHUYÊN HÀ NỘI - AMSTERDAM",
+									"20+ năm kinh nghiệm luyện thi Đại Học",
+									"Phong cách giảng dạy chậm rãi, thầy sẽ giúp các em học theo lối tư duy logic và kỹ năng xử lí bài tập, môn Địa Lí sẽ trở nên dễ dàng"
+								]
+							},
+							{
+								"name": "GDCD: Trần Văn Năng",
+								"img": "",
+								"info": [
+									"Giáo viên THPT CHUYÊN HÀ NỘI - AMSTERDAM",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy thường tập trung vào những đơn vị kiến thức thường gặp trong bài thi hoặc những phần kiến thức, dạng bài học sinh dễ mắc sai lầm"
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "LUYỆN GIẢI ĐỀ(PEN-I)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "Nguyễn Thanh Tùng",
+								"img": "",
+								"info": [
+									"Kỹ sư trường ĐH Bách khoa Hà Nội",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ giúp em ôn đúng dạng, luyện trúng đề, tối đa hóa điểm số với sơ đồ tư duy khoa học. "
+								]
+							},
+							{
+								"name": "Lê Bá Trần Phương",
+								"img": "",
+								"info": [
+									"Tiến sĩ Toán học",
+									"30+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp kiến thức tỉ mỉ, chi tiết, logic rõ ràng, mạch lạc giúp học sinh hiểu bản chất kiến thức"
+								]
+							},
+							{
+								"name": "Lê Anh Tuấn",
+								"img": "",
+								"info": [
+									"Tiến sĩ Toán học",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
+								]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "Đỗ Ngọc Hà",
+								"img": "",
+								"info": [
+									"Nghiên cứu viên Viện Vật Lí - Viện Hàn Lâm Khoa Học và Công Nghệ VN",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Giúp em thành thạo tất cả dạng bài, rút ngắn thời gian làm bài, bứt phá điểm số"
+								]
+							},
+							{
+								"name": "Nguyễn Thành Nam",
+								"img": "",
+								"info": [
+									"Tiến sĩ Vật Lí tại Pháp",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Dạy chi tiết, hiểu bản chất là phương châm hàng đầu của thầy"
+								]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "Vũ Khắc Ngọc",
+								"img": "",
+								"info": [
+									"Cán bộ nghiên cứu phòng Hóa sinh Protein – Viện Công nghệ Sinh học – Viện Khoa học và Công nghệ Việt Nam",
+									"15+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp các kiến thức 'xương sống' giúp các em hiểu đúng, hiểu sâu, hiểu chắc mọi vấn đề tạo cơ sở cho việc học tập, đạt kết quả cao. "
+								]
+							},
+							{
+								"name": "Nguyễn Ngọc Anh",
+								"img": "",
+								"info": [
+									"Đạt 2 huy chương vàng môn Hoá học trong cuộc thi Olympic Hóa học do Australia tổ chức",
+									"11+ năm kinh nghiệm luyện thi Đại Học",
+									"Bài bản, chi tiết, phương pháp học thông minh, logic, hiểu bản chất, giải đáp tất cả thắc mắc của học sinh."
+								]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "Nguyễn Thành Công",
+								"img": "",
+								"info": [
+									"Thạc sĩ Sinh học tại ĐHQG Hà Nội",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Với phương pháp tiếp cận ngược, thầy đi từ các vấn đề thực tiễn, hướng dần học sinh đến những kiến thức khóa học giúp học sinh thấm, ngấm kiến thức một cách tự nhiên, không gượng ép."
+								]
+							},
+							{
+								"name": "Đinh Đức Hiền",
+								"img": "",
+								"info": [
+									"Thạc sĩ Sinh học, ĐH Khoa học Tự nhiên, ĐHQGHN với nhiều công trình nghiên cứu khoa học được công bố trên các tạp chí khoa học tại Anh.",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ giúp các em hệ thống kiến thức một các logic, dễ nhớ"
+								]
+							}
+						]
+					},
+					{
+						"name": "Tiếng Anh",
+						"teachers": [
+							{
+								"name": "Hương Fiona",
+								"img": "",
+								"info": [
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Có nhiều học sinh đạt được thành tích cao trong kì thi Tốt nghiệp THPT và đỗ vào các trường Đại học uy tín trên cả nước",
+									"Hệ thống hóa kiến thức, nắm chắc mọi dạng bài, nâng cao tư duy tránh bẫy trong đề, dễ dàng đạt điểm cao."
+								]
+							},
+							{
+								"name": "Đặng Thảo Trang",
+								"img": "",
+								"info": [
+									"Thạc sĩ chuyên ngành lý luận và phương pháp giảng dạy tiếng Anh tại Đại học Victoria",
+									"8+ năm kinh nghiệm luyện thi Đại học",
+									"Cô sử dụng phương pháp mind - mapping (Sơ đồ tư duy) khi giảng dạy các kiến thức liên quan đến ngữ pháp tiếng Anh để các em phát triển khả năng tư duy và kĩ năng tự học"
+								]
+							}
+						]
+					},
+					{
+						"name": "Ngữ văn",
+						"teachers": [
+							{
+								"name": "Trịnh Thu Tuyết",
+								"img": "",
+								"info": [
+									"Tiến sĩ Ngữ văn, nguyên giáo viên trường THPT Chu Văn An",
+									"30+ năm kinh nghiệm luyện thi Đại học",
+									"Ở mỗi bài giảng cô lại có những cách truyền đạt khác nhau giúp học sinh vừa nắm chắc kiến thức đồng thời lại có thể cảm thụ văn học tốt hơn."
+								]
+							},
+							{
+								"name": "Phạm Hữu Cường",
+								"img": "",
+								"info": [
+									"Giáo viên luyện thi môn Ngữ văn hàng đầu Hà Nội và có nhiều học sinh đỗ Thủ khoa, Á khoa của các trường Đại học danh tiếng",
+									"20+ năm kinh nghiệm luyện thi Đại học",
+									"Những bài học của thầy luôn sinh động, không nhàm chán, luôn tạo ra điều mới mẻ, khác lạ, thu hút và tạo được nhiều cung bậc cảm xúc cho các em học sinh."
+								]
+							}
+						]
+					},
+					{
+						"name": "KHXH",
+						"teachers": [
+							{
+								"name": "Lịch sử: Lê Thị Thu Hương",
+								"img": "",
+								"info": [
+									"Giải Nhất giáo viên dạy giỏi môn Lịch sử thành phố Hà Nội",
+									"20+ năm kinh nghiệm luyện thi Đại học",
+									"Cung cấp tất cả các kiến thức nền tảng giúp học sinh xây nền kiến thức cơ bản, Học theo sơ đồ tư duy gọn nhẹ dễ nhớ"
+								]
+							},
+							{
+								"name": "Địa lí: Nguyễn Mạnh Hà",
+								"img": "",
+								"info": [
+									"Giáo viên THPT CHUYÊN HÀ NỘI - AMSTERDAM",
+									"20+ năm kinh nghiệm luyện thi Đại Học",
+									"Phong cách giảng dạy chậm rãi, thầy sẽ giúp các em học theo lối tư duy logic và kỹ năng xử lí bài tập, môn Địa Lí sẽ trở nên dễ dàng"
+								]
+							},
+							{
+								"name": "GDCD: Trần Văn Năng",
+								"img": "",
+								"info": [
+									"Giáo viên THPT CHUYÊN HÀ NỘI - AMSTERDAM",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy thường tập trung vào những đơn vị kiến thức thường gặp trong bài thi hoặc những phần kiến thức, dạng bài học sinh dễ mắc sai lầm"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "kỳ thi Đánh giá năng lực ĐHQG Hà Nội",
+		"courses": [
+			{
+				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C HSA)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "Lê Anh Tuấn",
+								"img": "",
+								"info": [
+									"Giảng viên ĐH Khoa học Tự Nhiên - ĐHQGHN và ĐH Công Nghiệp Hà Nội",
+									"6+ năm kinh nghiệm luyện thi Đại Học ",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán "
+								]
+							},
+							{
+								"name": "Lưu Huy Thưởng",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại Học bằng giỏi trường ĐH Kinh tế Quốc dân",
+									"10+ năm kinh nghiệm luyện thi Đại Học ",
+									"Thầy dạy chậm, giúp em hiểu bản chất, dễ học, dễ nhớ. "
+								]
+							},
+							{
+								"name": "Nguyễn Đức Tài",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại học Bách khoa Hà Nội",
+									"5+ năm kinh nghiệm luyện thi Đại học",
+									"Phương pháp giải Toán theo lối kết hợp giữa tự luận và trắc nghiệm"
+								]
+							}
+						]
+					},
+					{
+						"name": "Ngữ văn",
+						"teachers": [
+							{
+								"name": "Vương Thúy Hằng",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Thạc sĩ Khoa Ngữ văn, Đại học Sư phạm Hà Nội.",
+									"5+ năm kinh nghiệm luyện thi Đại học",
+									"Giảng chậm rãi, tỉ mỉ, đưa học sinh đến với văn học một cách chân thực nhất."
+								]
+							},
+							{
+								"name": "Văn Trịnh Quỳnh An",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại học và Thạc sĩ tại ĐH Sư phạm TP.HCM.",
+									"10+ năm kinh nghiệm luyện thi Đại học.",
+									"Năng động, tươi trẻ, cô chú trọng vào kỹ năng hành văn và luôn biết tăng cảm hứng yêu văn học cho học trò."
+								]
+							},
+							{
+								"name": "Đặng Ngọc Khương",
+								"img": "",
+								"info": [
+									"Giáo viên giảng dạy tại Trường Chuyên Ngoại ngữ ĐHQGHN.",
+									"15+ năm kinh nghiệm luyện thi Đại học.",
+									"Phong cách truyền đạt chậm rãi, sự linh hoạt, tài tình trong cách sử dụng ngôn ngữ bằng phong thái nghiêm nghị mà lại rất gần gũi, thân thuộc."
+								]
+							}
+						]
+					},
+					{
+						"name": "Vật lí",
+						"teachers": [
+							{
+								"name": "Trần Đức",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Kĩ sư Đại học Bách khoa Hà Nội",
+									"7+ năm kinh nghiệm luyện thi Đại học",
+									"Phong cách giảng bài vui vẻ, gần gũi, xóa bỏ rào cản với học sinh, giúp các em tiếp thu nhanh nhất, hiệu quả nhất."
+								]
+							},
+							{
+								"name": "Đỗ Ngọc Hà",
+								"img": "",
+								"info": [
+									"Nghiên cứu sinh tại Viện Vật Lí - Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+									"15+ năm kinh nghiệm ôn thi Đại Học",
+									"Giúp em thành thạo tất cả dạng bài, rút ngắn thời gian làm bài, bứt phá điểm số"
+								]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "Nguyễn Ngọc Anh",
+								"img": "",
+								"info": [
+									"HSG QG môn Hóa được tuyển thẳng ĐH Dược Hà Nội.",
+									"11+ năm kinh nghiệm ôn thi Đại Học ",
+									"Phong cách giảng dạy: Bài bản, chi tiết, phương pháp học thông minh, logic, hiểu bản chất, giải đáp tất cả thắc mắc của học sinh."
+								]
+							},
+							{
+								"name": "Vũ Khắc Ngọc",
+								"img": "",
+								"info": [
+									"Thầy giáo 'quốc dân' gây bão cộng đồng mạng. Tốt nghiệp Đại học Khoa học Tự nhiên chuyên ngành Hóa học, hiện đang công tác tại Viện Khoa học và Công nghệ Việt Nam.",
+									"11+ năm kinh nghiệm ôn thi Đại học ",
+									"Luôn đổi mới và update những dạng bài mới nhất, những phương pháp giải hay nhất."
+								]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "Đinh Đức Hiền",
+								"img": "",
+								"info": [
+									"Thạc sĩ Sinh học, ĐH Khoa học Tự nhiên, ĐHQGHN với nhiều công trình nghiên cứu khoa học được công bố trên các  tạp chí khoa học tại Anh.",
+									"5+ năm kinh nghiệm luyện thi Đại Học",
+									"Thầy sẽ giúp các em hệ thống kiến thức một các logic, dễ nhớ"
+								]
+							}
+						]
+					},
+					{
+						"name": "Lịch sử",
+						"teachers": [
+							{
+								"name": "Lê Thị Thu Hương",
+								"img": "",
+								"info": [
+									"Giải Nhất giáo viên dạy giỏi môn Lịch sử thành phố Hà Nội, chủ biên của nhiều đầu sách giáo án, kiến thức ôn luyện môn Lịch sử, bồi dưỡng HSG ...",
+									"20+ năm kinh nghiệm ôn thi Đại Học",
+									"Cung cấp tất cả các kiến thức nền tảng giúp học sinh xây nền kiến thức cơ bản, Học theo sơ đồ tư duy gọn nhẹ dễ nhớ"
+								]
+							}
+						]
+					},
+					{
+						"name": "Địa lí",
+						"teachers": [
+							{
+								"name": "Nguyễn Mạnh Hà",
+								"img": "",
+								"info": [
+									"Giáo viên THPT CHUYÊN HÀ NỘI - AMSTERDAM",
+									"20+ năm kinh nghiệm luyện thi Đại Học",
+									"Phong cách giảng dạy chậm rãi, thầy sẽ giúp các em học theo lối tư duy logic và kỹ năng xử lí bài tập, môn Địa Lí sẽ trở nên dễ dàng"
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "LUYỆN GIẢI ĐỀ (PAT-I HSA)",
+				"subjects": [
+					{
+						"name": "Định lượng",
+						"teachers": [
+							{
+								"name": "Nguyễn Đức Tài",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại học Bách khoa Hà Nội",
+									"5+ năm kinh nghiệm luyện thi Đại học",
+									"Phương pháp giải Toán theolối kết hợp giữa tự luận và trắc nghiệm"
+								]
+							},
+							{
+								"name": "Lê Anh Tuấn",
+								"img": "",
+								"info": [
+									"Giảng viên ĐH Khoa học Tự Nhiên - ĐHQGHN và ĐH Công Nghiệp Hà Nội",
+									"6+ năm kinh nghiệm luyện thi Đại Học ",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán "
+								]
+							}
+						]
+					},
+					{
+						"name": "Định tính",
+						"teachers": [
+							{
+								"name": "Đặng Ngọc Khương",
+								"img": "",
+								"info": [
+									"Giáo viên giảng dạy tại Trường Chuyên Ngoại ngữ ĐHQGHN.",
+									"15+ năm kinh nghiệm luyện thi Đại học.",
+									"Phong cách truyền đạt chậm rãi, sự linh hoạt, tài tình trong cách sử dụng ngôn ngữ bằng phong thái nghiêm nghị mà lại rất gần gũi, thân thuộc."
+								]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "Vũ Khắc Ngọc",
+								"img": "",
+								"info": [
+									"Thầy giáo 'quốc dân' gây bão cộng đồng mạng. Tốt nghiệp Đại học Khoa học Tự nhiên chuyên ngành Hóa học, hiện đang công tác tại Viện Khoa học và Công nghệ Việt Nam.",
+									"11+ năm kinh nghiệm ôn thi Đại học ",
+									"Luôn đổi mới và update những dạng bài mới nhất, những phương pháp giải hay nhất."
+								]
+							}
+						]
+					},
+					{
+						"name": "Vật lí",
+						"teachers": [
+							{
+								"name": "Nguyễn Thành Đạt",
+								"img": "",
+								"info": [
+									"5+ năm kinh nghiệm ôn thi Đại học",
+									"Thầy có phương pháp giảng dạy tỉ mỉ, cặn kẽ nhưng vẫn đảm bảo chú trọng đi sâu vào bản chất vấn đề"
+								]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "Nguyễn Thành Công",
+								"img": "",
+								"info": [
+									"Cử nhân ĐH Sư phạm HN, tác giả của nhiều đầu sách giảng dạy môn Sinh học nổi tiếng",
+									"Có nhiều học sinh đạt Huy chương trong các kỳ thi Olympic Quốc tế, HSG Quốc gia môn Sinh học, đỗ ĐH Y Hà Nội hay Y Dược TP HCM",
+									"Với phương pháp tiếp cận ngược, thầy đi từ các vấn đề thực tiễn, hướng dần học sinh đến những kiến thức khóa học giúp học sinh thấm, ngấm kiến thức một cách tự nhiên, không gượng ép."
+								]
+							}
+						]
+					},
+					{
+						"name": "Lịch sử",
+						"teachers": [
+							{
+								"name": "Trần Mai",
+								"img": "",
+								"info": [
+									"Thạc sĩ, giáo viên môn Lịch sử tại trường THPT Chu Văn An (Hà Nội)",
+									"13+ năm kinh nghiệm ôn thi Đại học",
+									"Cô biết cách biến hóa những kiến thức Lịch sử 'khó nhai khó nuốt', những giờ học 'ngủ gà ngủ gật' trở nên thú vị và đầy sự lôi cuốn bằng phương pháp dạy linh hoạt và phong cách trẻ trung, hài hước."
+								]
+							}
+						]
+					},
+					{
+						"name": "Địa lí",
+						"teachers": [
+							{
+								"name": "Nguyễn Hằng",
+								"img": "",
+								"info": [
+									"Tốt nghiệp Đại học Sư phạm Hà Nội",
+									"5+ năm kinh nghiệm ôn thi Đại học",
+									"Với phương pháp giảng dạy từ tổng hợp đến chi tiết, cô luôn cố gắng làm cho kiến thức trở nên thật dễ hiểu và thú vị"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "kỳ thi Đánh giá năng lực ĐHQG TP.HCM",
+		"courses": [
+			{
+				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C VNUHCM)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "a",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "b",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "c",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "d",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "LUYỆN GIẢI ĐỀ (PAT-I VNUHCM)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "a",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "b",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "c",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Sinh học",
+						"teachers": [
+							{
+								"name": "d",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "kỳ thi Đánh giá tư duy ĐH Bách Khoa",
+		"courses": [
+			{
+				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C HUST)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "a",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "b",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "c",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "LUYỆN GIẢI ĐỀ (PAT-I HUST)",
+				"subjects": [
+					{
+						"name": "Toán",
+						"teachers": [
+							{
+								"name": "a",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Vật lý",
+						"teachers": [
+							{
+								"name": "b",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					},
+					{
+						"name": "Hóa học",
+						"teachers": [
+							{
+								"name": "c",
+								"img": "",
+								"info": ["a", "b"]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
