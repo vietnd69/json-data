@@ -10,7 +10,7 @@
 						"teachers": [
 							{
 								"miniName": "Thầy Tùng",
-								"name": "Nguyễn Thanh Tùng",
+								"name": "Thầy Nguyễn Thanh Tùng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/tung-20220519065153.png",
 								"info": [
 									"Kỹ sư trường ĐH Bách khoa Hà Nội",
@@ -24,47 +24,45 @@
 							},
 							{
 								"miniName": "Thầy Trần Phương",
-								"name": "Lê Bá Trần Phương",
+								"name": "Thầy Lê Bá Trần Phương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-phuong-20220519101506.png",
 								"info": [
 									"Tiến sĩ Toán học",
-									"30+ năm kinh nghiệm luyện thi Đại học",
-									"Cung cấp kiến thức tỉ mỉ, chi tiết, logic rõ ràng, mạch lạc giúp học sinh hiểu bản chất kiến thức"
+									"30+ năm kinh nghiệm luyện thi Đại học"
 								],
 								"style": "Thầy biến các kiến thức khô khan của toán học trở nên nhẹ nhàng, gần gũi với học sinh. Đặc biệt thầy giảng bài rất tỉ mỉ, chậm rãi nhằm giúp học sinh nắm vững kiến thức nền tảng. <strong>Vì vậy mà thầy được mệnh danh là người thầy chuyên trị học sinh trung bình.</strong>",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em gặp khó khăn trong việc tiếp cận các định lý, công thức Toán",
+									"Em muốn được giảng chậm, chỉ áp dụng công thức là làm được bài"
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Anh Tuấn",
+								"miniName": "Thầy Tuấn",
+								"name": "Thầy Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
 									"Tiến sĩ Toán học",
 									"10+ năm kinh nghiệm luyện thi Đại học",
 									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
 								],
-								"style": "000",
+								"style": "<strong>Thầy thường xuyên cập nhật các dạng bài, sáng tạo những bài toán hay, độc đáo và phương pháp giải đặc biệt,</strong> giúp học sinh có nhiều cơ hội luyện tập, thực hành từ đó củng cố kiến thức và nâng cao kĩ năng làm bài. ",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em 'đau đầu' với những câu Vận dụng & Vận dụng cao",
+									"Em muốn được rèn kỹ năng tư duy logic để tối ưu hóa điểm số"
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lưu Huy Thưởng",
+								"miniName": "Thầy Thưởng",
+								"name": "Thầy Lưu Huy Thưởng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thuong-20220519101506.png",
 								"info": [
 									"Tốt nghiệp Đại học bằng giỏi của KTQD",
-									"Sinh viên xuất sắc toàn khóa",
-									"Thầy dạy chậm, giúp em hiểu bản chất, dễ học, dễ nhớ. "
+									"Sinh viên xuất sắc toàn khóa"
 								],
-								"style": "000",
+								"style": "Với phong cách giảng dạy gần gũi, hóm hỉnh, duyên dáng, luôn luôn tìm tòi những hướng đi mới trong phương pháp giảng dạy và truyền thụ kiến thức để khơi gợi sự hứng thú học tập, <strong>giúp học sinh không sợ Toán từ đó dễ dàng đạt điểm số cao trong các bài kiểm tra, tự tin vượt qua các kì thi đầu cấp và cuối cấp.</strong>",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em sợ Toán, không có hứng thú khi học tập",
+									"Em muốn được giảng chậm, tỉ mỉ, chỉ cần áp dụng công thức là ra đáp án"
 								]
 							}
 						]
@@ -304,7 +302,7 @@
 						"teachers": [
 							{
 								"miniName": "Thầy Tùng",
-								"name": "Nguyễn Thanh Tùng",
+								"name": "Thầy Nguyễn Thanh Tùng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/tung-20220519065153.png",
 								"info": [
 									"Kỹ sư trường ĐH Bách khoa Hà Nội",
@@ -318,8 +316,8 @@
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Bá Trần Phương",
+								"miniName": "Thầy Trần Phương",
+								"name": "Thầy Lê Bá Trần Phương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-phuong-20220519101506.png",
 								"info": [
 									"Tiến sĩ Toán học",
@@ -327,23 +325,23 @@
 								],
 								"style": "Thầy biến các kiến thức khô khan của toán học trở nên nhẹ nhàng, gần gũi với học sinh. Đặc biệt thầy giảng bài rất tỉ mỉ, chậm rãi nhằm giúp học sinh nắm vững kiến thức nền tảng. <strong>Vì vậy mà thầy được mệnh danh là người thầy chuyên trị học sinh trung bình.</strong>",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em gặp khó khăn trong việc tiếp cận các định lý, công thức Toán",
+									"Em muốn được giảng chậm, chỉ áp dụng công thức là làm được bài"
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Anh Tuấn",
+								"miniName": "Thầy Tuấn",
+								"name": "Thầy Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
 									"Tiến sĩ Toán học",
 									"10+ năm kinh nghiệm luyện thi Đại học",
 									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
 								],
-								"style": "000",
+								"style": "<strong>Thầy thường xuyên cập nhật các dạng bài, sáng tạo những bài toán hay, độc đáo và phương pháp giải đặc biệt,</strong> giúp học sinh có nhiều cơ hội luyện tập, thực hành từ đó củng cố kiến thức và nâng cao kĩ năng làm bài. ",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em 'đau đầu' với những câu Vận dụng & Vận dụng cao",
+									"Em muốn được rèn kỹ năng tư duy logic để tối ưu hóa điểm số"
 								]
 							}
 						]
@@ -587,33 +585,32 @@
 						"name": "Toán",
 						"teachers": [
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Anh Tuấn",
+								"miniName": "Thầy Tuấn",
+								"name": "Thầy Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
-									"Giảng viên ĐH Khoa học Tự Nhiên - ĐHQGHN và ĐH Công Nghiệp Hà Nội",
-									"6+ năm kinh nghiệm luyện thi Đại Học ",
-									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán "
+									"Tiến sĩ Toán học",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
 								],
-								"style": "000",
+								"style": "<strong>Thầy thường xuyên cập nhật các dạng bài, sáng tạo những bài toán hay, độc đáo và phương pháp giải đặc biệt,</strong> giúp học sinh có nhiều cơ hội luyện tập, thực hành từ đó củng cố kiến thức và nâng cao kĩ năng làm bài. ",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em 'đau đầu' với những câu Vận dụng & Vận dụng cao",
+									"Em muốn được rèn kỹ năng tư duy logic để tối ưu hóa điểm số"
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lưu Huy Thưởng",
+								"miniName": "Thầy Thưởng",
+								"name": "Thầy Lưu Huy Thưởng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thuong-20220519101506.png",
 								"info": [
-									"Tốt nghiệp Đại Học bằng giỏi trường ĐH Kinh tế Quốc dân",
-									"10+ năm kinh nghiệm luyện thi Đại Học ",
-									"Thầy dạy chậm, giúp em hiểu bản chất, dễ học, dễ nhớ. "
+									"Tốt nghiệp Đại học bằng giỏi của KTQD",
+									"Sinh viên xuất sắc toàn khóa"
 								],
-								"style": "000",
+								"style": "Với phong cách giảng dạy gần gũi, hóm hỉnh, duyên dáng, luôn luôn tìm tòi những hướng đi mới trong phương pháp giảng dạy và truyền thụ kiến thức để khơi gợi sự hứng thú học tập, <strong>giúp học sinh không sợ Toán từ đó dễ dàng đạt điểm số cao trong các bài kiểm tra, tự tin vượt qua các kì thi đầu cấp và cuối cấp.</strong>",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em sợ Toán, không có hứng thú khi học tập",
+									"Em muốn được giảng chậm, tỉ mỉ, chỉ cần áp dụng công thức là ra đáp án"
 								]
 							},
 							{
@@ -837,18 +834,18 @@
 								]
 							},
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Anh Tuấn",
+								"miniName": "Thầy Tuấn",
+								"name": "Thầy Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
-									"Giảng viên ĐH Khoa học Tự Nhiên - ĐHQGHN và ĐH Công Nghiệp Hà Nội",
-									"6+ năm kinh nghiệm luyện thi Đại Học ",
-									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán "
+									"Tiến sĩ Toán học",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
 								],
-								"style": "000",
+								"style": "<strong>Thầy thường xuyên cập nhật các dạng bài, sáng tạo những bài toán hay, độc đáo và phương pháp giải đặc biệt,</strong> giúp học sinh có nhiều cơ hội luyện tập, thực hành từ đó củng cố kiến thức và nâng cao kĩ năng làm bài. ",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em 'đau đầu' với những câu Vận dụng & Vận dụng cao",
+									"Em muốn được rèn kỹ năng tư duy logic để tối ưu hóa điểm số"
 								]
 							}
 						]
@@ -986,18 +983,18 @@
 						"name": "Toán",
 						"teachers": [
 							{
-								"miniName": "Thầy Tùng",
-								"name": "Lê Anh Tuấn",
+								"miniName": "Thầy Tuấn",
+								"name": "Thầy Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
-									"Giảng viên ĐH Khoa học Tự Nhiên - ĐHQGHN và ĐH Công Nghiệp Hà Nội",
-									"6+ năm kinh nghiệm luyện thi Đại Học ",
-									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán "
+									"Tiến sĩ Toán học",
+									"10+ năm kinh nghiệm luyện thi Đại học",
+									"Thầy sẽ hệ thống kiến thức theo sơ đồ tư duy để em giải được mọi bài toán."
 								],
-								"style": "000",
+								"style": "<strong>Thầy thường xuyên cập nhật các dạng bài, sáng tạo những bài toán hay, độc đáo và phương pháp giải đặc biệt,</strong> giúp học sinh có nhiều cơ hội luyện tập, thực hành từ đó củng cố kiến thức và nâng cao kĩ năng làm bài. ",
 								"reason": [
-									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
-									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
+									"Em 'đau đầu' với những câu Vận dụng & Vận dụng cao",
+									"Em muốn được rèn kỹ năng tư duy logic để tối ưu hóa điểm số"
 								]
 							},
 							{
