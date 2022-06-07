@@ -9,19 +9,21 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thanh Tùng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/tung-20220519065153.png",
 								"info": [
 									"Kỹ sư trường ĐH Bách khoa Hà Nội",
 									"10+ năm kinh nghiệm luyện thi Đại học"
 								],
-								"style": "Thầy thường thiết kế bài giảng theo hình thức sơ đồ tư duy, nhờ vậy các em hình thành tư duy liên tưởng, so sánh. Qua đó các em hiểu sâu, hiểu nhanh và ứng dụng vào việc giải bài tập dễ dàng. <strong>Học lý thuyết với thầy Tùng chưa bao giờ nhàm chán.</strong>",
+								"style": "Thầy thường thiết kế bài giảng theo hình thức sơ đồ tư duy, nhờ vậy các em hình thành tư duy liên tưởng, so sánh. Qua đó các em hiểu sâu, hiểu nhanh và ứng dụng vào việc giải bài tập dễ dàng. <strong>Học lý thuyết với Thầy Tùng chưa bao giờ nhàm chán.</strong>",
 								"reason": [
 									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
 									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
 								]
 							},
 							{
+								"miniName": "Thầy Trần Phương",
 								"name": "Lê Bá Trần Phương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-phuong-20220519101506.png",
 								"info": [
@@ -36,6 +38,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
@@ -50,6 +53,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lưu Huy Thưởng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thuong-20220519101506.png",
 								"info": [
@@ -69,6 +73,7 @@
 						"name": "Vật lý",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đỗ Ngọc Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-do-ngoc-ha-20220519101500.png",
 								"info": [
@@ -83,6 +88,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -102,6 +108,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vũ Khắc Ngọc",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-vu-khac-ngoc-20220519101506.png",
 								"info": [
@@ -116,6 +123,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Ngọc Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-ngoc-anh-20220519101506.png",
 								"info": [
@@ -135,6 +143,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Công",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-cong-20220519101506.png",
 								"info": [
@@ -149,6 +158,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đinh Đức Hiền",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-hien-20220519101500.png",
 								"info": [
@@ -168,6 +178,7 @@
 						"name": "Tiếng Anh",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Hương Fiona",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-huong-fiora-20220519101500.png",
 								"info": [
@@ -182,6 +193,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Phạm Trọng Hiếu",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-trong-hieu-20220519101507.png",
 								"info": [
@@ -201,6 +213,7 @@
 						"name": "Ngữ văn",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trịnh Thu Tuyết",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-tuyet-20220519101500.png",
 								"info": [
@@ -215,6 +228,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Phạm Hữu Cường",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-cuong-20220519101500.png",
 								"info": [
@@ -234,6 +248,7 @@
 						"name": "KHXH",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lịch sử: Lê Thị Thu Hương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-thu-huong-20220519101500.png",
 								"info": [
@@ -248,6 +263,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Địa lí: Nguyễn Mạnh Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-manh-ha-20220519101506.png",
 								"info": [
@@ -262,6 +278,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "GDCD: Trần Văn Năng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-nang-20220519101506.png",
 								"info": [
@@ -286,6 +303,7 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thanh Tùng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/tung-20220519065153.png",
 								"info": [
@@ -293,13 +311,14 @@
 									"10+ năm kinh nghiệm luyện thi Đại học",
 									"Thầy sẽ giúp em ôn đúng dạng, luyện trúng đề, tối đa hóa điểm số với sơ đồ tư duy khoa học. "
 								],
-								"style": "Thầy thường thiết kế bài giảng theo hình thức sơ đồ tư duy, nhờ vậy các em hình thành tư duy liên tưởng, so sánh. Qua đó các em hiểu sâu, hiểu nhanh và ứng dụng vào việc giải bài tập dễ dàng. <strong>Học lý thuyết với thầy Tùng chưa bao giờ nhàm chán.</strong>",
+								"style": "Thầy thường thiết kế bài giảng theo hình thức sơ đồ tư duy, nhờ vậy các em hình thành tư duy liên tưởng, so sánh. Qua đó các em hiểu sâu, hiểu nhanh và ứng dụng vào việc giải bài tập dễ dàng. <strong>Học lý thuyết với Thầy Tùng chưa bao giờ nhàm chán.</strong>",
 								"reason": [
 									"Em gặp khó khăn trong việc ghi nhớ & tổng hợp kiến thức",
 									"Em muốn được ôn kĩ, tỉ mỉ, học tới đâu chắc điểm tới đó"
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Bá Trần Phương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-phuong-20220519101506.png",
 								"info": [
@@ -313,6 +332,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
@@ -332,6 +352,7 @@
 						"name": "Vật lý",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đỗ Ngọc Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-do-ngoc-ha-20220519101500.png",
 								"info": [
@@ -346,6 +367,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -365,6 +387,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vũ Khắc Ngọc",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-vu-khac-ngoc-20220519101506.png",
 								"info": [
@@ -379,6 +402,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Ngọc Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-ngoc-anh-20220519101506.png",
 								"info": [
@@ -398,6 +422,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Công",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-cong-20220519101506.png",
 								"info": [
@@ -412,6 +437,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đinh Đức Hiền",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-hien-20220519101500.png",
 								"info": [
@@ -431,6 +457,7 @@
 						"name": "Tiếng Anh",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Hương Fiona",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-huong-fiora-20220519101500.png",
 								"info": [
@@ -445,6 +472,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đặng Thảo Trang",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/dang-trang-20220520032842.png",
 								"info": [
@@ -464,6 +492,7 @@
 						"name": "Ngữ văn",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trịnh Thu Tuyết",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-tuyet-20220519101500.png",
 								"info": [
@@ -478,6 +507,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Phạm Hữu Cường",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-cuong-20220519101500.png",
 								"info": [
@@ -497,6 +527,7 @@
 						"name": "KHXH",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lịch sử: Lê Thị Thu Hương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-thu-huong-20220519101500.png",
 								"info": [
@@ -511,6 +542,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Địa lí: Nguyễn Mạnh Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-manh-ha-20220519101506.png",
 								"info": [
@@ -525,6 +557,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "GDCD: Trần Văn Năng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-nang-20220519101506.png",
 								"info": [
@@ -554,6 +587,7 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
@@ -568,6 +602,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lưu Huy Thưởng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thuong-20220519101506.png",
 								"info": [
@@ -582,6 +617,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Đức Tài",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tai-20220520025442.png",
 								"info": [
@@ -601,6 +637,7 @@
 						"name": "Ngữ văn",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vương Thúy Hằng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-hang-20220520025427.png",
 								"info": [
@@ -615,6 +652,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Văn Trịnh Quỳnh An",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-an-20220520025427.png",
 								"info": [
@@ -629,6 +667,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đặng Ngọc Khương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-khuong-20220520025442.png",
 								"info": [
@@ -648,6 +687,7 @@
 						"name": "Vật lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Đức",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-20220520025428.png",
 								"info": [
@@ -662,6 +702,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đỗ Ngọc Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-do-ngoc-ha-20220519101500.png",
 								"info": [
@@ -681,6 +722,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Ngọc Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-ngoc-anh-20220519101506.png",
 								"info": [
@@ -695,6 +737,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vũ Khắc Ngọc",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-vu-khac-ngoc-20220519101506.png",
 								"info": [
@@ -714,6 +757,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đinh Đức Hiền",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-hien-20220519101500.png",
 								"info": [
@@ -733,6 +777,7 @@
 						"name": "Lịch sử",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Thị Thu Hương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-thu-huong-20220519101500.png",
 								"info": [
@@ -752,6 +797,7 @@
 						"name": "Địa lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Mạnh Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-manh-ha-20220519101506.png",
 								"info": [
@@ -776,6 +822,7 @@
 						"name": "Định lượng",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Đức Tài",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tai-20220520025442.png",
 								"info": [
@@ -790,6 +837,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
@@ -809,6 +857,7 @@
 						"name": "Định tính",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đặng Ngọc Khương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-khuong-20220520025442.png",
 								"info": [
@@ -828,6 +877,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vũ Khắc Ngọc",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-vu-khac-ngoc-20220519101506.png",
 								"info": [
@@ -847,6 +897,7 @@
 						"name": "Vật lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Đạt",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-dat-20220520025428.png",
 								"info": [
@@ -865,6 +916,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Công",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-cong-20220519101506.png",
 								"info": [
@@ -884,6 +936,7 @@
 						"name": "Lịch sử",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Mai",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-mai-20220520025427.png",
 								"info": [
@@ -903,6 +956,7 @@
 						"name": "Địa lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Hằng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/nguyen-hang-20220520032603.png",
 								"info": [
@@ -932,6 +986,7 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Anh Tuấn",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-le-anh-tuan-20220519101500.png",
 								"info": [
@@ -946,6 +1001,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Đức Tài",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tai-20220520025442.png",
 								"info": [
@@ -960,6 +1016,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Phụ Hoàng Lân",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-luan-20220520025442.png",
 								"info": [
@@ -974,6 +1031,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -993,6 +1051,7 @@
 						"name": "Ngữ văn",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vương Thúy Hằng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-hang-20220520025427.png",
 								"info": [
@@ -1007,6 +1066,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Văn Trịnh Quỳnh An",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-an-20220520025427.png",
 								"info": [
@@ -1026,6 +1086,7 @@
 						"name": "Tiếng Anh",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Hương Fiona",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-huong-fiora-20220519101500.png",
 								"info": [
@@ -1045,6 +1106,7 @@
 						"name": "Vật lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Đức",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-20220520025428.png",
 								"info": [
@@ -1059,6 +1121,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -1078,6 +1141,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Ngọc Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-ngoc-anh-20220519101506.png",
 								"info": [
@@ -1092,6 +1156,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Phạm Thắng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thang-20220520025442.png",
 								"info": [
@@ -1111,6 +1176,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Công",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-cong-20220519101506.png",
 								"info": [
@@ -1125,6 +1191,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đinh Đức Hiền",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-hien-20220519101500.png",
 								"info": [
@@ -1144,6 +1211,7 @@
 						"name": "Lịch sử",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Thị Thu Hương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-thu-huong-20220519101500.png",
 								"info": [
@@ -1158,6 +1226,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Vân Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-van-anh-20220520025427.png",
 								"info": [
@@ -1177,6 +1246,7 @@
 						"name": "Địa lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Mạnh Hà",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-manh-ha-20220519101506.png",
 								"info": [
@@ -1201,6 +1271,7 @@
 						"name": "Tiếng Việt",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Văn Trịnh Quỳnh An",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-an-20220520025427.png",
 								"info": [
@@ -1215,6 +1286,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thị Thanh Thủy",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/nguyenthithanhthuy-1-20220520025428.png",
 								"info": [
@@ -1234,6 +1306,7 @@
 						"name": "Tiếng Anh",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Nguyễn Trinh Nguyên",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/trannguyentrinhnguyen-1-20220520025446.png",
 								"info": [
@@ -1248,6 +1321,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Võ Anh Tuấn (Tuấn BB)",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tuan-bb-20220520025446.png",
 								"info": [
@@ -1267,6 +1341,7 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "La Hồ Tuấn Duy",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duy-20220520025442.png",
 								"info": [
@@ -1281,6 +1356,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Phụ Hoàng Lân",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-luan-20220520025442.png",
 								"info": [
@@ -1295,6 +1371,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -1314,6 +1391,7 @@
 						"name": "Vật lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Duy Nhật",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-nhat-20220520025442.png",
 								"info": [
@@ -1328,6 +1406,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Nam",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-nam-20220519101506.png",
 								"info": [
@@ -1347,6 +1426,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Hoàng Thái Dương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duong-20220520025442.png",
 								"info": [
@@ -1361,6 +1441,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Phạm Thắng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thang-20220520025442.png",
 								"info": [
@@ -1380,6 +1461,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thị Thanh Tâm",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-tam-20220520025427.png",
 								"info": [
@@ -1394,6 +1476,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Thành Công",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thanh-cong-20220519101506.png",
 								"info": [
@@ -1413,6 +1496,7 @@
 						"name": "Lịch sử",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Thầy Huỳnh Hữu Nghị",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-nghi-20220520025442.png",
 								"info": [
@@ -1427,6 +1511,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Vân Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-van-anh-20220520025427.png",
 								"info": [
@@ -1446,6 +1531,7 @@
 						"name": "Địa lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Hoàng Minh Đăng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-dang-20220520025428.png",
 								"info": [
@@ -1460,6 +1546,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Lê Ngân",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-ngan-20220520025427.png",
 								"info": [
@@ -1489,6 +1576,7 @@
 						"name": "Ngữ văn",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Vương Thúy Hằng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-hang-20220520025427.png",
 								"info": [
@@ -1503,6 +1591,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Văn Trịnh Quỳnh An",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-an-20220520025427.png",
 								"info": [
@@ -1517,6 +1606,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đặng Ngọc Khương",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-khuong-20220520025442.png",
 								"info": [
@@ -1531,6 +1621,7 @@
 								]
 							},
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Qúy Tiến",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tien-20220520025443.png",
 								"info": [
@@ -1550,6 +1641,7 @@
 						"name": "Tiếng Anh",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Hương Fiona",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/co-huong-fiora-20220519101500.png",
 								"info": [
@@ -1569,6 +1661,7 @@
 						"name": "Vật lí",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Trần Đức",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-20220520025428.png",
 								"info": [
@@ -1588,6 +1681,7 @@
 						"name": "Hóa học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Ngọc Anh",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-ngoc-anh-20220519101506.png",
 								"info": [
@@ -1607,6 +1701,7 @@
 						"name": "Sinh học",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Đinh Đức Hiền",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-duc-hien-20220519101500.png",
 								"info": [
@@ -1631,6 +1726,7 @@
 						"name": "Toán",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Minh Thắng",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-thang-20220520025442.png",
 								"info": [
@@ -1650,6 +1746,7 @@
 						"name": "Đọc hiểu",
 						"teachers": [
 							{
+								"miniName": "Thầy Tùng",
 								"name": "Nguyễn Quý Tiến",
 								"img": "https://w.ladicdn.com/5cff118624dbba3522f3cf7a/thay-tien-20220520025443.png",
 								"info": [
