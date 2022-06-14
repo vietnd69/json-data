@@ -1,0 +1,94 @@
+[
+    {
+        "id": "",
+        "name": "job 1, 24-03-2022, 30-03-2022",
+        "type": "",
+        "state": "doing",
+        "orderTime": "1654829624",
+        "deadlineTime": "1655520824",
+        "endTime": "1655693624",
+        "orderUser": {
+            "id": "",
+            "userName": "user 2",
+            "avatar": "",
+            "role": "",
+            "tags": []
+        },
+        "presentSupport": {
+            "id": "",
+            "userName": "user 1",
+            "avatar": "",
+            "role": "",
+            "tags": []
+        },
+        "tags": [
+            {
+                "name": "TTKD1",
+                "type": "department"
+            },
+            {
+                "name": "Pen",
+                "type": "product"
+            }
+        ],
+        "timeline": [
+            {
+                "info": "Order task",
+                "time": "00:00,25-03-2022"
+            },
+            {
+                "info": "Xác nhận task",
+                "time": "12:00,25-03-2022"
+            },
+            {
+                "info": "Xác nhận người hỗ trợ",
+                "time": "23:00,25-03-2022"
+            },
+            {
+                "info": "Xử lý xong",
+                "time": "09:00,27-03-2022"
+            },
+            {
+                "info": "Feedback lần 1",
+                "time": "12:00,27-03-2022"
+            },
+            {
+                "info": "Sửa lần 1",
+                "time": "14:00,27-03-2022"
+            },
+            {
+                "info": "Feedback lần 2",
+                "time": "08:00,28-03-2022"
+            },
+            {
+                "info": "Sửa lần 2",
+                "time": "12:00,28-03-2022"
+            },
+            {
+                "info": "Xác nhận hoàn thành",
+                "time": "18:00,29-03-2022"
+            },
+            {
+                "info": "Đóng job",
+                "time": "23:59,30-03-2022"
+            }
+        ],
+        "timelineState": [
+            {
+                "info": "order",
+                "startTime": "00:00,25-03-2022",
+                "endTime": "23:00,25-03-2022"
+            },
+            {
+                "info": "work",
+                "startTime": "23:00,25-03-2022",
+                "endTime": "09:00,27-03-2022"
+            },
+            {
+                "info": "review",
+                "startTime": "09:00,27-03-2022",
+                "endTime": "23:59,30-03-2022"
+            }
+        ]
+    }
+]
