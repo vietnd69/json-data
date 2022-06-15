@@ -1,6 +1,6 @@
 [
 	{
-		"name": "kỳ thi Tốt nghiệp THPT",
+		"name": "Thi Tốt nghiệp THPT",
 		"courses": [
 			{
 				"name": "TỔNG ÔN TOÀN DIỆN(PEN-C)",
@@ -549,7 +549,7 @@
 		]
 	},
 	{
-		"name": "kỳ thi Đánh giá năng lực ĐHQG Hà Nội",
+		"name": "Thi Đánh giá năng lực ĐHQG Hà Nội",
 		"courses": [
 			{
 				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C HSA)",
@@ -928,7 +928,7 @@
 		]
 	},
 	{
-		"name": "kỳ thi Đánh giá năng lực ĐHQG TP.HCM",
+		"name": "Thi Đánh giá năng lực ĐHQG TP.HCM",
 		"courses": [
 			{
 				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C VNUHCM)",
@@ -1485,7 +1485,7 @@
 		]
 	},
 	{
-		"name": "kỳ thi Đánh giá tư duy ĐH Bách Khoa",
+		"name": "Thi Đánh giá tư duy ĐH Bách Khoa",
 		"courses": [
 			{
 				"name": "TỔNG ÔN TOÀN DIỆN (PAT-C HUST)",
