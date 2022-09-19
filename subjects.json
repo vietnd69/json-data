@@ -1,0 +1,20 @@
+[
+    {
+        "id": "",
+        "name": "lý",
+        "headline": "",
+        "visibility":"",
+        "packages": {
+            "course": [{"id": ""}],
+
+            "bundle": [{"id": ""}],
+            "combo": [{"id": ""}],
+            "level": [{"id": ""}],
+            
+            "curriculum": [{"id": ""}],
+            "block": [{"id": ""}],
+            "catalogue": [{"id": ""}],
+            "tag": []
+        }
+    }
+]

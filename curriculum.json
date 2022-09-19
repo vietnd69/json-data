@@ -1,0 +1,22 @@
+[
+    {
+        "name": "",
+        "headline": "",
+        "visibility":"",
+        "package": {
+            "course": [{"id": ""}],
+
+            "subject": [{"id": ""}],
+            "bundle": [{"id": ""}],
+            "combo": [{"id": ""}],
+
+            "class": [{"id": ""}],
+            "level": [{"id": ""}],
+            
+            "block": [{"id": ""}],
+            "catalogue": [{"id": ""}],
+
+            "tag": []
+        }
+    }
+]

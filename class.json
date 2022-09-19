@@ -1,0 +1,23 @@
+[
+    {
+        "id": "",
+        "name": "Lớp 12",
+        "headline": "",
+        "visibility":"",
+        "packages": {
+            "course": [{"id": ""}],
+
+            "subject": [{"id": ""}],
+            "bundle": [{"id": ""}],
+            "combo": [{"id": ""}],
+
+            "level": [{"id": ""}],
+            
+            "curriculum": [{"id": ""}],
+            "block": [{"id": ""}],
+            "catalogue": [{"id": ""}],
+
+            "tag": []
+        }
+    }
+]

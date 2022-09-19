@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1562",
+        "name": "",
+        "headline": "",
+        "students": "",
+        "lastUpdate": "",
+        "overview": "",
+        "visibility":"",
+        "options": [
+            {
+                "id": "",
+                "name": "",
+                "description": "",
+                "type": "",
+                "price": "",
+                "visibility":"",
+                "sale": {
+                    "id": "",
+                    "type": "",
+                    "name": "",
+                    "value": "",
+                    "price": ""
+                },
+                "coupons": [{"id": ""}]
+            }
+        ],
+        
+        "packages": {
+            "teacher": [{"id": ""}],
+
+            "subject": [{"id": ""}],
+            "bundle": [{"id": ""}],
+            "combo": [{"id": ""}],
+
+            "class": [{"id": ""}],
+            "level": [{"id": ""}],
+
+            "curriculum": [{"id": ""}],
+            "block": [{"id": ""}],
+            "catalogue": [{"id": ""}],
+
+            "tag": []
+        },
+        "curriculum": {
+            "includes": {},
+            "contents": []
+        }
+    }
+]
