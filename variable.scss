@@ -1,0 +1,415 @@
+@import './functions';
+
+/* colors */
+// Green color
+$green-1: #f8fdf3;
+$green-2: #f2fae7;
+$green-3: #e5f6cf;
+$green-4: #caec9f;
+$green-5: #b0e370;
+$green-6: #95d940;
+$green-7: #7bd010;
+$green-8: #56920b;
+$green-9: #3e6808;
+$green-10: #315306;
+$green-11: #253e05;
+$green-12: #192a03;
+$green-13: #0c1502;
+
+$amazon-green-1: #c5e5d3;
+$amazon-green-2: #9edbb8;
+$amazon-green-3: #67c091;
+$amazon-green-4: #49996f;
+$amazon-green-5: #397856;
+$amazon-green-6: #2e6045;
+$amazon-green-7: #224834;
+$amazon-green-8: #173022;
+
+
+// Purple color
+$purple-0-5: #f5f4ff;
+$purple-1: #e2e0ff;
+$purple-2: #c5c2ff;
+$purple-3: #a9a3ff;
+$purple-4: #8c85ff;
+$purple-5: #6f66ff;
+$purple-6: #424082;
+$purple-7: #3a3a6d;
+$purple-8: #2c2c5a;
+$purple-9: #2f304d;
+
+// Red color
+$red-0-5: #fcefee;
+$red-1: #f3bdbc;
+$red-2: #eb8c89;
+$red-3: #e56b68;
+$red-4: #e25b57;
+$red-5: #9e403d;
+$red-6: #712e2c;
+$red-7: #5a2423;
+$red-8: #391716;
+
+// Yellow color
+$yellow-1: #fdf1d8;
+$yellow-2: #fedca2;
+$yellow-3: #ffcd76;
+$yellow-4: #f7c563;
+$yellow-5: #f5b73c;
+$yellow-6: #bc872a;
+$yellow-7: #89662a;
+$yellow-8: #47340d;
+
+// Neutral color
+$white: #ffffff !default;
+$neutral-0-25: #f8fafa;
+$neutral-0-5: #f7f7f8;
+$neutral-1: #e5e7ea;
+$neutral-2: #ccd0d5;
+$neutral-3: #b4b8c0;
+$neutral-4: #9da1ac;
+$neutral-5: #868a97;
+$neutral-6: #717582;
+$neutral-7: #5c606d;
+$neutral-8: #494c58;
+$neutral-8-5: #40434f;
+$neutral-9: #353740;
+$neutral-9-5: #2c2d35;
+$neutral-10: #2c2d35;
+$neutral-11: #1f2128;
+$neutral-12: #14161a;
+$black: #131419 !default;
+
+/* Colors context */
+// System color
+$primary-0-5: #faffef;
+$primary-1: $green-1;
+$primary-2: $green-2;
+$primary-3: $green-3;
+$primary-4: $green-4;
+$primary-5: $green-5;
+$primary-6: $green-6;
+$primary-7: $green-7;
+$primary-8: $green-8;
+$primary-9: $green-9;
+$primary-10: $green-10;
+$primary-11: $green-11;
+$primary-12: $green-12;
+$primary-13: $green-13;
+
+$secondary-0-5: $purple-0-5;
+$secondary-1: $purple-1;
+$secondary-2: $purple-2;
+$secondary-3: $purple-3;
+$secondary-4: $purple-4;
+$secondary-5: $purple-5;
+$secondary-6: $purple-6;
+$secondary-7: $purple-7;
+$secondary-8: $purple-8;
+$secondary-9: $purple-9;
+
+$white-opacity: $white;
+$black-opacity: $neutral-11;
+
+/* Components */
+// Alert
+$error-text-color: $red-3;
+$warning-text-color: $red-3;
+$process-text-color: $green;
+$susses-text-color: $amazon-green-3;
+
+// Chart
+$uptrend-text-color: $amazon-green-3;
+$downtrend-text-color: $red-3;
+
+// Text
+$text-normal: $white;
+$text-link: $secondary-4;
+$text-description: $neutral-3;
+$text-disable: $neutral-6;
+$text-button-ghost: $white;
+
+// Border
+$border-color: $neutral-9;
+
+// Divider
+$divider-color: $border-color;
+
+// Button
+$button-animation-text-color: $primary-2;
+$button-animation-background-color: $primary-13;
+$button-animation-border-color: linear-gradient(
+      $button-animation-background-color,
+      $button-animation-background-color
+    )
+    padding-box,
+  linear-gradient(98.64deg, $green-7 0%, #00bb5b 50%, #008489 100%) border-box;
+
+$button-primary-text-color: $button-animation-text-color;
+$button-primary-background-color: $button-animation-background-color;
+$button-primary-border-color: $button-animation-border-color;
+
+// Button style
+@mixin button-style($style: default) {
+  @if $style == animation {
+    color: $button-animation-text-color;
+    background: $button-animation-border-color;
+    border: solid 2px transparent;
+    box-shadow: 0 0 16px $primary-12;
+  }
+  @if $style == primary {
+    color: $button-primary-text-color;
+    background: $button-animation-border-color;
+    border: solid 1px transparent;
+  }
+  @if $style == ghost {
+    background: $button-animation-border-color;
+  }
+  @if $style == default {
+    color: $white;
+  }
+}
+
+// Chip
+
+// Input
+$input-background-color: $neutral-12;
+$input-border-color: $border-color;
+
+// Menu
+$menu-text-default-color: $neutral-5;
+$menu-text-active-color: $primary-7;
+
+// Toast
+
+// Background
+$body-background-color: $neutral-11;
+
+// Card
+$card-solid-background: $neutral-9-5;
+$card-solid-background-opacity: rgba($card-solid-background, 0.5);
+$card-gradient-background: linear-gradient(
+  180deg,
+  rgba($neutral-9, 0.2) 0%,
+  rgba($neutral-9, 0.7) 100%
+);
+$card-background-blur: 22px;
+$card-border-color: $border-color;
+$card-input-background-color: $neutral-12;
+$card-info-background-color: rgba($neutral-12, 0.4);
+$card-input-border-color: $neutral-9;
+$card-info-border-color: $neutral-9;
+$card-divider-color: $neutral-9;
+
+// Modal
+$modal-solid-background: $neutral-9-5;
+$modal-gradient-background: linear-gradient(
+  180deg,
+  rgba($neutral-9, 0.4) 0%,
+  rgba($neutral-9, 0.8) 100%
+);
+$modal-background-blur: 22px;
+$modal-border-color: $neutral-9;
+$modal-input-background-color: $neutral-12;
+$modal-info-background-color: rgba($neutral-12, 0.4);
+$modal-input-border-color: $neutral-9;
+$modal-info-border-color: $neutral-9;
+$modal-divider-color: $neutral-10;
+
+// Header
+$glow-color: $primary-9;
+$glow-menu-header: url("data:image/svg+xml,%3Csvg width='164' height='64' viewBox='0 0 164 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cmask id='mask0_592_77540' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='0' y='0' width='164' height='64'%3E%3Crect width='164' height='64' fill='#{encodecolor($glow-color)}'/%3E%3C/mask%3E%3Cg mask='url(%23mask0_592_77540)'%3E%3Cg filter='url(%23filter0_f_592_77540)'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M131.858 73H32C37.7229 64.9489 57.9072 59 81.9288 59C105.95 59 126.135 64.9489 131.858 73Z' fill='#{encodecolor($glow-color)}' fill-opacity='0.7'/%3E%3C/g%3E%3Crect x='13' y='63' width='138' height='1' fill='url(%23paint0_linear_592_77540)' fill-opacity='0.3'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_592_77540' x='-1' y='26' width='165.859' height='80' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='16.5' result='effect1_foregroundBlur_592_77540'/%3E%3C/filter%3E%3ClinearGradient id='paint0_linear_592_77540' x1='13' y1='64' x2='151' y2='64' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='#{encodecolor($glow-color)}' stop-opacity='0'/%3E%3Cstop offset='0.510417' stop-color='#{encodecolor($glow-color)}'/%3E%3Cstop offset='1' stop-color='#{encodecolor($glow-color)}' stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E%0A");
+
+// Footer
+
+// Swap panel
+$swap-input-button-icon-background-color: $neutral-10;
+$curve: url("data:image/svg+xml,%3Csvg width='93' height='16' viewBox='0 0 93 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M93 0H0C31.4026 0 30.3232 16 46.8661 16C63.4091 16 62.2013 0 93 0Z' fill='#{encodecolor($card-input-background-color)}'/%3E%3Cpath d='M0 0H93C61.5974 0 62.6768 16 46.1339 16C29.5909 16 30.7987 0 0 0Z' fill='%2316181D'/%3E%3C/svg%3E%0A");
+
+/* heading */
+$h1-fs: 8rem !default;
+$h2-fs: 6.4rem !default;
+$h3-fs: 4.2rem !default;
+$h4-fs: 3.2rem !default;
+$h5-fs: 2.4rem !default;
+$h6-fs: 2.2rem !default;
+
+$h1-lh: 12rem !default;
+$h2-lh: 8rem !default;
+$h3-lh: 6rem !default;
+$h4-lh: 4rem !default;
+$h5-lh: 3rem !default;
+$h6-lh: 2.4rem !default;
+
+$mobile-h1-fs: 6.4rem !default;
+$mobile-h2-fs: 4.8rem !default;
+$mobile-h3-fs: 3.2rem !default;
+$mobile-h4-fs: 2.8rem !default;
+$mobile-h5-fs: 2.4rem !default;
+$mobile-h6-fs: 2rem !default;
+
+$mobile-h1-lh: 8rem !default;
+$mobile-h2-lh: 6rem !default;
+$mobile-h3-lh: 4rem !default;
+$mobile-h4-lh: 3.4rem !default;
+$mobile-h5-lh: 3rem !default;
+$mobile-h6-lh: 2.4rem !default;
+
+/* spacing */
+$unit: 1rem !default;
+$spacers: () !default;
+@for $i from 0 through 20 {
+  $spacers: map-merge($spacers, (2 * $i: ($i * $unit * 0.2)));
+}
+
+/* font weights */
+$font-weights: 400, 600, 700 !default;
+
+/* font sizes */
+$unit: 1rem !default;
+$font-sizes: (
+  xs: (
+    12,
+    16
+  ),
+  s: (
+    14,
+    18
+  ),
+  m: (
+    16,
+    20
+  ),
+  ml: (
+    18,
+    24
+  ),
+  l: (
+    22,
+    28
+  ),
+  xl: (
+    24,
+    30
+  )
+) !default;
+$mobile-font-sizes: (
+  xs: (
+    12,
+    16
+  ),
+  s: (
+    14,
+    18
+  ),
+  m: (
+    16,
+    20
+  ),
+  ml: (
+    18,
+    20
+  ),
+  l: (
+    20,
+    24
+  ),
+  xl: (
+    22,
+    28
+  )
+) !default;
+$icon-sizes: (
+  xs: (
+    14,
+    14
+  ),
+  s: (
+    16,
+    16
+  ),
+  m: (
+    18,
+    18
+  ),
+  ml: (
+    20,
+    20
+  ),
+  l: (
+    22,
+    22
+  ),
+  xl: (
+    24,
+    24
+  ),
+  xxl: (
+    40,
+    40
+  )
+) !default;
+
+/* utils */
+$displays: none, inline, inline-block, block, table, table-row, table-cell, flex,
+  inline-flex !default;
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+  from {
+    bottom: -300px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    bottom: -300px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes bounce {
+  35%,
+  65% {
+    scale: var(--scale);
+  }
+}
+
+@keyframes flip {
+  to {
+    rotate: 360deg;
+  }
+}
+
+@keyframes float-out {
+  to {
+    rotate: 360deg;
+    transform: translate(50%, -10%);
+  }
+}
