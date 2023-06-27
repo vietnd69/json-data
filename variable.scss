@@ -25,6 +25,8 @@ $amazon-green-6: #2e6045;
 $amazon-green-7: #224834;
 $amazon-green-8: #173022;
 
+$green: #139a64;
+$green-2: #4eba28;
 
 // Purple color
 $purple-0-5: #f5f4ff;
@@ -110,31 +112,219 @@ $secondary-9: $purple-9;
 $white-opacity: $white;
 $black-opacity: $neutral-11;
 
+/* unit scale*/
+$rem-unit-scale: 10px !default;
+
+/* heading */
+$h1-fs: 8rem !default;
+$h2-fs: 6.4rem !default;
+$h3-fs: 4.2rem !default;
+$h4-fs: 3.2rem !default;
+$h5-fs: 2.4rem !default;
+$h6-fs: 2.2rem !default;
+
+$heading-line-height-default: 1.5 !default;
+$h1-lh: $heading-line-height-default !default;
+$h2-lh: $heading-line-height-default !default;
+$h3-lh: $heading-line-height-default !default;
+$h4-lh: $heading-line-height-default !default;
+$h5-lh: $heading-line-height-default !default;
+$h6-lh: $heading-line-height-default !default;
+
+$mobile-h1-fs: 6.4rem !default;
+$mobile-h2-fs: 4.8rem !default;
+$mobile-h3-fs: 3.2rem !default;
+$mobile-h4-fs: 2.8rem !default;
+$mobile-h5-fs: 2.4rem !default;
+$mobile-h6-fs: 2rem !default;
+
+$mobile-h1-lh: $heading-line-height-default !default;
+$mobile-h2-lh: $heading-line-height-default !default;
+$mobile-h3-lh: $heading-line-height-default !default;
+$mobile-h4-lh: $heading-line-height-default !default;
+$mobile-h5-lh: $heading-line-height-default !default;
+$mobile-h6-lh: $heading-line-height-default !default;
+
+/* spacing */
+$unit: 1rem !default;
+$spacers: (0, 1, 2, 4, 6, 8, 10, 12, 16, 20, 24, 32, 48, 64) !default;
+$map-spacers: () !default;
+@each $i in $spacers {
+  $map-spacers: map-merge(
+    $map-spacers,
+    (
+      $i: (
+        $i * $unit / 10
+      )
+    )
+  );
+}
+
+/* font weights */
+$font-weights: (
+  r: 400 /* regular*/,
+  sb: 600 /* medium*/,
+  b: 700 /*bold
+*/
+) !default;
+
+/* font sizes */
+$unit: 1rem !default;
+$body-line-height-default: 1.25 !default;
+$font-sizes: (
+  xs: (
+    12,
+    $body-line-height-default
+  ),
+  s: (
+    14,
+    $body-line-height-default
+  ),
+  m: (
+    16,
+    $body-line-height-default
+  ),
+  ml: (
+    18,
+    $body-line-height-default
+  ),
+  l: (
+    22,
+    $body-line-height-default
+  ),
+  xl: (
+    24,
+    $body-line-height-default
+  )
+) !default;
+
+$mobile-font-sizes: (
+  xs: (
+    12,
+    $body-line-height-default
+  ),
+  s: (
+    14,
+    $body-line-height-default
+  ),
+  m: (
+    16,
+    $body-line-height-default
+  ),
+  ml: (
+    18,
+    $body-line-height-default
+  ),
+  l: (
+    20,
+    $body-line-height-default
+  ),
+  xl: (
+    22,
+    $body-line-height-default
+  )
+) !default;
+$icon-sizes: (
+  xs: (
+    14,
+    14
+  ),
+  s: (
+    16,
+    16
+  ),
+  m: (
+    18,
+    18
+  ),
+  ml: (
+    20,
+    20
+  ),
+  l: (
+    22,
+    22
+  ),
+  xl: (
+    24,
+    24
+  ),
+  xxl: (
+    40,
+    40
+  )
+) !default;
+
+/* border radius */
+$border-radius-sizes: (
+  pill: 24,
+  rounder-16: 16,
+  rounder-14: 16,
+  rounder-12: 16,
+  rounder-18: 16
+);
+
+/* utils */
+$displays: none, inline, inline-block, block, table, table-row, table-cell, flex,
+  inline-flex !default;
+
 /* Components */
 // Alert
-$error-text-color: $red-3;
-$warning-text-color: $red-3;
-$process-text-color: $green;
-$susses-text-color: $amazon-green-3;
+$error-color: $red-3;
+$warning-color: $red-3;
+$process-color: $green;
+$susses-color: $amazon-green-3;
 
 // Chart
-$uptrend-text-color: $amazon-green-3;
-$downtrend-text-color: $red-3;
+$uptrend-color: $amazon-green-3;
+$downtrend-color: $red-3;
 
 // Text
 $text-normal: $white;
 $text-link: $secondary-4;
+$text-link-hover: $secondary-3;
 $text-description: $neutral-3;
 $text-disable: $neutral-6;
-$text-button-ghost: $white;
+$text-error-color: $error-color;
+$text-warning-color: $warning-color;
+$text-process-color: $process-color;
+$text-susses-color: $susses-color;
+$text-uptrend-color: $uptrend-color;
+$text-downtrend-color: $downtrend-color;
 
 // Border
 $border-color: $neutral-9;
+$border-error-color: $error-color;
+$border-warning-color: $warning-color;
+$border-process-color: $process-color;
+$border-susses-color: $susses-color;
 
 // Divider
 $divider-color: $border-color;
 
 // Button
+$button-size: (
+  sm: (
+    height: 32px,
+    font-size: s,
+    font-weight: sb,
+    icon-size: s
+  ),
+  md: (
+    height: 38px,
+    font-size: s,
+    font-weight: sb,
+    icon-size: s
+  ),
+  lg: (
+    height: 48px,
+    font-size: m,
+    font-weight: sb,
+    icon-size: s
+  )
+);
+
+$button-text-line-height: 1 !default;
 $button-animation-text-color: $primary-2;
 $button-animation-background-color: $primary-13;
 $button-animation-border-color: linear-gradient(
@@ -148,28 +338,28 @@ $button-primary-text-color: $button-animation-text-color;
 $button-primary-background-color: $button-animation-background-color;
 $button-primary-border-color: $button-animation-border-color;
 
-// Button style
-@mixin button-style($style: default) {
-  @if $style == animation {
-    color: $button-animation-text-color;
-    background: $button-animation-border-color;
-    border: solid 2px transparent;
-    box-shadow: 0 0 16px $primary-12;
-  }
-  @if $style == primary {
-    color: $button-primary-text-color;
-    background: $button-animation-border-color;
-    border: solid 1px transparent;
-  }
-  @if $style == ghost {
-    background: $button-animation-border-color;
-  }
-  @if $style == default {
-    color: $white;
-  }
-}
+$button-secondary-text-color: $button-animation-text-color;
+$button-secondary-background-color: $button-animation-background-color;
+$button-secondary-border-color: $button-animation-border-color;
+
+$button-tonal-text-color: $button-animation-text-color;
+$button-tonal-background-color: $button-animation-background-color;
+$button-tonal-border-color: $button-animation-border-color;
+
+$button-outline-text-color: $button-animation-text-color;
+$button-outline-background-color: $button-animation-background-color;
+$button-outline-border-color: $button-animation-border-color;
+
+$button-ghost-text-color: $button-animation-text-color;
+$button-ghost-background-color: $button-animation-background-color;
+$button-ghost-border-color: $button-animation-border-color;
+
+$button-disable-text-color: $button-animation-text-color;
+$button-disable-background-color: $button-animation-background-color;
+$button-disable-border-color: $button-animation-border-color;
 
 // Chip
+$chip-default-line-height: 1 !default;
 
 // Input
 $input-background-color: $neutral-12;
@@ -224,134 +414,6 @@ $glow-menu-header: url("data:image/svg+xml,%3Csvg width='164' height='64' viewBo
 // Swap panel
 $swap-input-button-icon-background-color: $neutral-10;
 $curve: url("data:image/svg+xml,%3Csvg width='93' height='16' viewBox='0 0 93 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M93 0H0C31.4026 0 30.3232 16 46.8661 16C63.4091 16 62.2013 0 93 0Z' fill='#{encodecolor($card-input-background-color)}'/%3E%3Cpath d='M0 0H93C61.5974 0 62.6768 16 46.1339 16C29.5909 16 30.7987 0 0 0Z' fill='%2316181D'/%3E%3C/svg%3E%0A");
-
-/* heading */
-$h1-fs: 8rem !default;
-$h2-fs: 6.4rem !default;
-$h3-fs: 4.2rem !default;
-$h4-fs: 3.2rem !default;
-$h5-fs: 2.4rem !default;
-$h6-fs: 2.2rem !default;
-
-$h1-lh: 12rem !default;
-$h2-lh: 8rem !default;
-$h3-lh: 6rem !default;
-$h4-lh: 4rem !default;
-$h5-lh: 3rem !default;
-$h6-lh: 2.4rem !default;
-
-$mobile-h1-fs: 6.4rem !default;
-$mobile-h2-fs: 4.8rem !default;
-$mobile-h3-fs: 3.2rem !default;
-$mobile-h4-fs: 2.8rem !default;
-$mobile-h5-fs: 2.4rem !default;
-$mobile-h6-fs: 2rem !default;
-
-$mobile-h1-lh: 8rem !default;
-$mobile-h2-lh: 6rem !default;
-$mobile-h3-lh: 4rem !default;
-$mobile-h4-lh: 3.4rem !default;
-$mobile-h5-lh: 3rem !default;
-$mobile-h6-lh: 2.4rem !default;
-
-/* spacing */
-$unit: 1rem !default;
-$spacers: () !default;
-@for $i from 0 through 20 {
-  $spacers: map-merge($spacers, (2 * $i: ($i * $unit * 0.2)));
-}
-
-/* font weights */
-$font-weights: 400, 600, 700 !default;
-
-/* font sizes */
-$unit: 1rem !default;
-$font-sizes: (
-  xs: (
-    12,
-    16
-  ),
-  s: (
-    14,
-    18
-  ),
-  m: (
-    16,
-    20
-  ),
-  ml: (
-    18,
-    24
-  ),
-  l: (
-    22,
-    28
-  ),
-  xl: (
-    24,
-    30
-  )
-) !default;
-$mobile-font-sizes: (
-  xs: (
-    12,
-    16
-  ),
-  s: (
-    14,
-    18
-  ),
-  m: (
-    16,
-    20
-  ),
-  ml: (
-    18,
-    20
-  ),
-  l: (
-    20,
-    24
-  ),
-  xl: (
-    22,
-    28
-  )
-) !default;
-$icon-sizes: (
-  xs: (
-    14,
-    14
-  ),
-  s: (
-    16,
-    16
-  ),
-  m: (
-    18,
-    18
-  ),
-  ml: (
-    20,
-    20
-  ),
-  l: (
-    22,
-    22
-  ),
-  xl: (
-    24,
-    24
-  ),
-  xxl: (
-    40,
-    40
-  )
-) !default;
-
-/* utils */
-$displays: none, inline, inline-block, block, table, table-row, table-cell, flex,
-  inline-flex !default;
 
 /* Add Animation */
 @-webkit-keyframes slideIn {
@@ -410,6 +472,6 @@ $displays: none, inline, inline-block, block, table, table-row, table-cell, flex
 @keyframes float-out {
   to {
     rotate: 360deg;
-    transform: translate(50%, -10%);
+    // transform: translate(50%, -10%);
   }
 }
